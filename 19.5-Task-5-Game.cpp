@@ -199,4 +199,6 @@ int main()
 
         round_result(pointCon, pointV, endGame);
     }
+    cout << "Press any key...";
+    cin.get();
 }
